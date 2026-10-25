@@ -1,0 +1,19 @@
+# Core data analysis
+pandas>=2.2,<4.0
+numpy>=1.26,<3.0
+
+# Visualization
+matplotlib>=3.8,<4.0
+seaborn>=0.13,<1.0
+plotly>=5.20,<7.0
+
+# MySQL connectivity (needed only if Python scripts connect directly to MySQL)
+SQLAlchemy>=2.0,<3.0
+PyMySQL>=1.1,<2.0
+
+# Notebook / interactive analysis (optional)
+jupyterlab>=4.0,<5.0
+ipykernel>=6.29,<7.0
+
+# Statistical analysis (optional; install if used by the project)
+scipy>=1.12,<2.0

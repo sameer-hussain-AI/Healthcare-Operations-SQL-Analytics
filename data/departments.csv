@@ -1,0 +1,9 @@
+department_id,department_name,department_type
+1,Emergency,Acute Care
+2,Cardiology,Specialty
+3,Orthopedics,Specialty
+4,Pediatrics,Specialty
+5,General Medicine,Inpatient
+6,Surgery,Surgical
+7,Neurology,Specialty
+8,Maternity,Maternal Care
