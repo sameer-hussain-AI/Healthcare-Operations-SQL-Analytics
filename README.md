@@ -39,14 +39,7 @@ healthcare-operations-analytics/
 │   ├── 02_import_validation.sql # Row counts and import checks
 │   ├── 03_data_quality.sql      # SQL-based data-quality checks
 │   ├── 04_eda.sql               # Exploratory SQL queries
-│   └── 05_advanced_analysis.sql # Deeper operational analysis
-├── notebooks/                   # Optional notebooks for exploration
-├── src/
-│   ├── data_cleaning.py
-│   ├── eda.py
-│   ├── data_quality.py
-│   └── advanced_analysis.py
-├── reports/                     # Charts, summaries, and exported reports
+│   └── 05_advanced_analysis.sql # Deeper operational analysis                   # Charts, summaries, and exported reports
 ├── README.md
 └── requirements.txt
 ```
